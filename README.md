@@ -67,7 +67,7 @@ Additional bypassed applications may be available. Check my repositories for cur
 
 Interested in learning how SSL pinning bypasses, jailbreak detection bypasses, and mobile application patching work?
 
-Training and private courses are available.
+Training and private courses/custom apps are available.
 
 **Telegram:** [@reversio1](https://t.me/reversio1)
 
